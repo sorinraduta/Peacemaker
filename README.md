@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="150" width="150" src="monster.svg" />
+  <img height="100" width="100" src="monster.svg" />
   <h3 align="center">Peacemaker</h3>
 </p>
 
