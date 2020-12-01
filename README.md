@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="monster.svg" /></div>
+<div style="text-align:center"><img align="center" src="monster.svg" /></div>
 
 ## Instalation
 - `$ cp .env.example .env`
