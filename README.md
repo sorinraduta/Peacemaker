@@ -1,4 +1,7 @@
-<p align="center"><img height="300" width="300" src="monster.svg" /></p>
+<p align="center">
+  <img height="150" width="150" src="monster.svg" />
+  # Peacemaker
+</p>
 
 ## Instalation
 - `$ cp .env.example .env`
