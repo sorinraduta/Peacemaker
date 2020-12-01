@@ -3,6 +3,7 @@
   <h3 align="center">Peacemaker</h3>
 </p>
 
+
 ## Instalation
 - `$ cp .env.example .env`
 - add discord token in `.env`
