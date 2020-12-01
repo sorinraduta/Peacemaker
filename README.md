@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="monster.svg" /></div>
+
 ## Instalation
 - `$ cp .env.example .env`
 - add discord token in `.env`
