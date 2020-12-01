@@ -1,6 +1,6 @@
 <p align="center">
   <img height="150" width="150" src="monster.svg" />
-  # Peacemaker
+  <p>Peacemaker</p>
 </p>
 
 ## Instalation
